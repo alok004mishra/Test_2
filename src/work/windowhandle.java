@@ -29,6 +29,13 @@ public class windowhandle {
 	
 	String childWindowId =	it.next();
 	System.out.println("childWindowId"+childWindowId);
+	System.out.println("childWindowId"+childWindowId);
+	System.out.println("childWindowId"+childWindowId);
+	System.out.println("childWindowId"+childWindowId);
+	System.out.println("childWindowId"+childWindowId);
+	System.out.println("childWindowId"+childWindowId);
+	System.out.println("childWindowId"+childWindowId);
+	System.out.println("childWindowId"+childWindowId);
 	}
 
 	public static void main(String[] args) {
